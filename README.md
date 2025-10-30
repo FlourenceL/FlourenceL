@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Flourence Lapore, a Junior Software Developer passionate about building scalable, intelligent, and impactful applications. My expertise covers AI, IoT, web development, and DevOps, where I focus on solving real-world problems through technology.
+I'm Flourence Lapore, a Software Developer passionate about building scalable, intelligent, and impactful applications. My expertise covers AI, IoT, web development, and DevOps, where I focus on solving real-world problems through technology.
 
 What I Do
 
